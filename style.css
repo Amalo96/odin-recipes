@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size: 54px;
+}
+ul#menu{
+    font-size: 24px;
+    color: grey;
+    font-weight: bold;
+    line-height: 1cm;
+}
+.centered{
+    font-size: 46px;
+    text-align: center;
+    display: block;
+    margin: auto;
+    line-height: 3cm;
+}
